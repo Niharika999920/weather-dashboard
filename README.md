@@ -73,6 +73,7 @@ We’re all about collaboration! If you want to contribute to this project, feel
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 
+
 ## Acknowledgements 🙏
 
 - A huge shout-out to [OpenWeather](https://openweathermap.org/) for providing the free API that powers the weather data.
